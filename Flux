@@ -1,4 +1,4 @@
-FLUX
+DUMMY FLUX "DO NOT USE"
 
 Sodium I, II, & III
 1/8th Sodium 1
@@ -7,6 +7,13 @@ Sodium I, II, & III
 Capful of Formeldahyde for every tablespoon of Sodium I
 Capful of For Sodium II
 2 Capsful of Formeldahyde for every tablespoon of Sodium III
+
+SODIUM FREE ACID FREE FLUX - LEGACY FLUX "USE WITH CAUTION"
+100% Leather Tanning Solution
+
+GOLD CAPACITORS
+Gold With Aluminum Solder Points
+
 -FADM 2C SWP JACOB ROTHSCHILD 
 
 Flux is used in Capacitors to stop exlosive combusion when over charging.
